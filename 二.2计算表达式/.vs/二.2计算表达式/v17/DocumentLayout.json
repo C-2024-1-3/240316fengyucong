@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\lenovo\\source\\repos\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2A3C8B-53C3-43CF-9923-BEE0DAC54297}|\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F.vcxproj|D:\\Users\\lenovo\\source\\repos\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D2A3C8B-53C3-43CF-9923-BEE0DAC54297}|\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F.vcxproj|solutionrelative:\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\Users\\lenovo\\source\\repos\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp",
+              "ToolTip": "D:\\Users\\lenovo\\source\\repos\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp",
+              "RelativeToolTip": "\u4E8C.2\u8BA1\u7B97\u8868\u8FBE\u5F0F\\FileName.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T10:54:22.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
