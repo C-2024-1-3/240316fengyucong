@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\Users\lenovo\source\repos\四.5\四.5\FileName.cpp(6,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\lenovo\source\repos\四.5\四.5\FileName.cpp(7,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  四.5.vcxproj -> D:\Users\lenovo\source\repos\四.5\x64\Debug\四.5.exe
