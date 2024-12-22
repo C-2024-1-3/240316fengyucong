@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|solutionrelative:\u4E94.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|solutionrelative:\u4E94.2\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E35947F-FBD2-4662-B1EC-FFD1CA3C2A0A}|\u4E94.2\\\u4E94.2.vcxproj|solutionrelative:\u4E94.2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\main.cpp",
+              "RelativeDocumentMoniker": "\u4E94.2\\main.cpp",
+              "ToolTip": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\main.cpp",
+              "RelativeToolTip": "\u4E94.2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T11:05:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cpp",
+              "DocumentMoniker": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.cpp",
+              "RelativeDocumentMoniker": "\u4E94.2\\student.cpp",
+              "ToolTip": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.cpp",
+              "RelativeToolTip": "\u4E94.2\\student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T11:05:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.h",
+              "DocumentMoniker": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.h",
+              "RelativeDocumentMoniker": "\u4E94.2\\student.h",
+              "ToolTip": "D:\\Users\\lenovo\\source\\repos\\\u4E94.2\\\u4E94.2\\student.h",
+              "RelativeToolTip": "\u4E94.2\\student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T11:02:24.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
